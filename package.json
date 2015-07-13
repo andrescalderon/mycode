@@ -1,0 +1,15 @@
+{
+  "name": "mypackage",
+  "version": "0.0.0",
+  "description": "creando un paquete en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrescalderon/mycode.git"
+  },
+  "author": "Andres ariza <jaariza@unitecnica.net> (http://jaariza.besaba.com)",
+  "license": "MIT"
+}
